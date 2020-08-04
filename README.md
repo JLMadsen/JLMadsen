@@ -3,7 +3,7 @@
 - 💸 I’m currently working as a summer intern for Sopra Steria
 - 🎓 Studying computer science at NTNU
 - 🏹 trying to make a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
-    - Not using any libraries or framworks.
+    - Using [VanillaJs](http://vanilla-js.com/)
     - Never made a game with physics, so this may take a while...
 
 <div align="middle">
