@@ -21,6 +21,8 @@ Connect with me on [LinkedIn][LinkedIn] :necktie:
 [Website]:https://jakoblm.com/
 [LinkedIn]:https://www.linkedin.com/in/jakoblm/
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlmadsen.jlmadsen)
+
 <!--
 - 📧 How to reach me: jakob.m@dsen.tv
 - 🌐 Check out my site: <a href="https://jakoblm.com">jakoblm.com</a>
