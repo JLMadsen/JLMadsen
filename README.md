@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 💸 I’m currently working as a summer intern for Sopra Steria
 - 🎓 Studying computer science at NTNU
 - 🏹 Trying to make a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
     - Using [VanillaJs](http://vanilla-js.com/)
@@ -21,7 +20,7 @@ Connect with me on [LinkedIn][LinkedIn] :necktie:
 [Website]:https://jakoblm.com/
 [LinkedIn]:https://www.linkedin.com/in/jakoblm/
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlmadsen.jlmadsen)
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlmadsen.jlmadsen)-->
 
 <!--
 - 📧 How to reach me: jakob.m@dsen.tv
