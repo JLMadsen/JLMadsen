@@ -1,6 +1,9 @@
 ### Hello there 👋
 
 - 🎓 Studying computer science at NTNU
+    - This semester im learning about:
+        - Software and network security
+        - Applied machine learning
 - 🏹 Trying to make a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
     - Using [VanillaJs](http://vanilla-js.com/)
     - Never made a game with physics, so this may take a while...
@@ -8,6 +11,8 @@
     - Up next: 
         - Discourses - Epictetus
         - Flowers for Algernon - Daniel Keyes
+
+<br />
 
 <div align="middle">
   
@@ -21,8 +26,3 @@ Connect with me on [LinkedIn][LinkedIn] :necktie:
 [LinkedIn]:https://www.linkedin.com/in/jakoblm/
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlmadsen.jlmadsen)-->
-
-<!--
-- 📧 How to reach me: jakob.m@dsen.tv
-- 🌐 Check out my site: <a href="https://jakoblm.com">jakoblm.com</a>
--->
