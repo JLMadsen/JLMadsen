@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jakob</h1>
-<h3 align="center">CS Student at NTNU</h3>
+<!--<h3 align="center">CS Student at NTNU</h3>-->
 
 ### About me:
 
