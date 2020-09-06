@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Jakob</h1>
-<!--<h3 align="center">CS Student at NTNU</h3>-->
 
 ### About me:
 
+- 👨‍💻 Graduate 2021 @ Sopra Steria
 - 🎓 Studying computer science at NTNU
-    - This semester im learning about:
+    - This semester i'm learning about:
         - Software and network security
         - Applied machine learning
-- 🏹 Trying to make a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
+- 🏹 Making a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
     - Using [VanillaJs](http://vanilla-js.com/)
-    - Never made a game with physics, so this may take a while...
 - 📚 Currently reading: Letters from a stoic - Seneca
     - Up next: 
         - Discourses - Epictetus
