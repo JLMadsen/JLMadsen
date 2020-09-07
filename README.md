@@ -9,7 +9,8 @@
         - Applied machine learning
 - 🏹 Making a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
     - Using [VanillaJs](http://vanilla-js.com/)
-- <details>
+    
+<details>
   <summary>📚 Reading list:</summary>
   
     <!--START_SECTION:activity-->
@@ -18,7 +19,7 @@
     3. &nbsp; Flowers for Algernon - Daniel Keyes
     <!--END_SECTION:activity-->
 
-    </details>
+</details>
 
 <br />
 
