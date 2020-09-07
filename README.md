@@ -13,11 +13,11 @@
 <details>
   <summary>📚 Reading list:</summary>
   
-    <!--START_SECTION:activity-->
-    1. &nbsp; Letters from a stoic - Seneca
-    2. &nbsp; Discourses - Epictetus
-    3. &nbsp; Flowers for Algernon - Daniel Keyes
-    <!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+1. &nbsp; Letters from a stoic - Seneca
+2. &nbsp; Discourses - Epictetus
+3. &nbsp; Flowers for Algernon - Daniel Keyes
+<!--END_SECTION:activity-->
 
 </details>
 
