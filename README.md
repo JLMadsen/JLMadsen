@@ -9,6 +9,8 @@
         - Applied machine learning
 - 🏹 Making a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
     - Using [VanillaJs](http://vanilla-js.com/)
+- 🌐 Creating a webserver <a href="https://denlurevind.com">here</a>
+    - Mainly for backend functionality for my portefolio
     
 <details>
   <summary>📚 Reading list:</summary>
