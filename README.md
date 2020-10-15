@@ -32,10 +32,3 @@ Send me an email at jakob.m@dsen.tv :speech_balloon: &nbsp;&nbsp;&nbsp;|&nbsp;&n
 Connect with me on [LinkedIn][LinkedIn] :necktie:
 
 </div>
-
-
-
-[Website]:https://jakoblm.com/
-[LinkedIn]:https://www.linkedin.com/in/jakoblm/
-
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlmadsen.jlmadsen)-->
