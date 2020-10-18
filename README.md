@@ -18,7 +18,7 @@ Sopra Steria Graduate
 
 </details>
 
-<br />
+<br /><br />
 
 <div align="middle">
   
