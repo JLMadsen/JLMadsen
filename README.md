@@ -1,6 +1,7 @@
 <h1 align="center">Jakob Madsen</h1>
 
 NTNU Computer Science
+
 Sopra Steria Graduate
 
 ### _About_:
