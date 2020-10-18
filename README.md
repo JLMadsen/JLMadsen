@@ -1,25 +1,19 @@
-<h1 align="center">Hi, I'm Jakob</h1>
+<h1 align="center">Jakob Madsen</h1>
 
-### About me:
+NTNU Computer Science
+Sopra Steria Graduate
 
-- 👨‍💻 Graduate 2021 @ Sopra Steria
-- 🎓 Studying computer science at NTNU
-    - This semester i'm learning about:
-        - Software and network security
-        - Applied machine learning
-- 🏹 Making a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
-    - Using [VanillaJs](http://vanilla-js.com/)
-- 🌐 Creating a webserver <a href="https://denlurevind.com">here</a>
-    - Mainly for backend functionality for my portefolio
+### _About_:
+
+- I'm learning about:
+    - Software and network security
+    - Applied machine learning
     
-<details>
-  <summary>📚 Reading list:</summary>
-  
-<!--START_SECTION:activity-->
-1. &nbsp; Letters from a stoic - Seneca
-2. &nbsp; Discourses - Epictetus
-3. &nbsp; Flowers for Algernon - Daniel Keyes
-<!--END_SECTION:activity-->
+- Making a bow and arrow game <a href="https://jlmadsen.github.io">here</a>
+    - Using [VanillaJs](http://vanilla-js.com/)
+    
+- Creating a webserver <a href="https://denlurevind.com">here</a>
+    - Mainly for backend functionality for my portefolio
 
 </details>
 
