@@ -22,9 +22,9 @@ Sopra Steria Graduate
 
 <div align="middle">
   
-Check out my [website][Website] :link:               &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-Send me an email at jakob.m@dsen.tv :speech_balloon: &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-Connect with me on [LinkedIn][LinkedIn] :necktie:
+[website][Website] :link:               &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+jakob.m@dsen.tv :speech_balloon: &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[LinkedIn][LinkedIn] :necktie:
 
 </div>
 
