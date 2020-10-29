@@ -22,9 +22,9 @@ Sopra Steria Graduate
 
 <div align="middle">
   
-[website][Website] :link:               &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-jakob.m@dsen.tv :speech_balloon: &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[LinkedIn][LinkedIn] :necktie:
+[website][Website]               &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+jakob.m@dsen.tv &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[LinkedIn][LinkedIn]
 
 </div>
 
