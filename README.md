@@ -1,4 +1,7 @@
 <h1 align="center">Jakob Madsen</h1>
+<div align="middle">
+    <a href="https://jakoblm.com/" target="_blank">Website</a>
+</div>
 
 NTNU Computer Science
 
@@ -18,15 +21,3 @@ Sopra Steria Graduate
 
 </details>
 
-<br /><br />
-
-<div align="middle">
-  
-[website][Website]               &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-jakob.m@dsen.tv &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-[LinkedIn][LinkedIn]
-
-</div>
-
-[Website]:https://jakoblm.com/	
-[LinkedIn]:https://www.linkedin.com/in/jakoblm/
