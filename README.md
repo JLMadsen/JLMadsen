@@ -7,8 +7,8 @@
 
 ### _About_:
 
-- Sopra Steria Graduate
 - NTNU Computer Science
+- Sopra Steria Graduate (starting summer 2021)
 - Currently writing my bachelor on Penetration testing / Ethical hacking.
 
 
