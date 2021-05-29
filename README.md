@@ -3,14 +3,10 @@
     <a href="https://jakoblm.com/" target="_blank">Website</a>
 </div>
 
-
-
 ### _About_:
 
-- NTNU Computer Science
-- Sopra Steria Graduate (starting summer 2021)
-- Currently writing my bachelor on Penetration testing / Ethical hacking.
-
+- Computer Science, NTNU Trondheim
+- Sopra Steria Graduate
 
 ### _Connect with me_:
 <a href="https://www.linkedin.com/in/jakoblm/" target="_blank">
