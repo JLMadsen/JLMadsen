@@ -1,4 +1,4 @@
-<h1 align="center">Jakob Madsen</h1>
+<h1 align="center">Jakob Lønnerød Madsen</h1>
 <div align="center">
     <a href="https://jakoblm.com/" target="_blank">Website</a>
 </div>
