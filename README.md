@@ -6,7 +6,7 @@
 ### _About_:
 
 - Computer Science, NTNU Trondheim
-- Sopra Steria Graduate
+- Fullstack dev @ Sopra Steria
 
 ### _Connect with me_:
 <a href="https://www.linkedin.com/in/jakoblm/" target="_blank">
